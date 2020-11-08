@@ -2,7 +2,7 @@
 
 Resume website with NextJS
 
-[**DEMO**](https://nut.indytheme.com)
+[**DEMO**](https://mahdi-barkia-resume.netlify.app)
 
 ## Compilation
 **on development**
@@ -16,4 +16,4 @@ npm run build
 
 ## Authors
 
-* **NutAnek** -  [https://github.com/Mahdi-Barkia](https://github.com/Mahdi-Barkia)
+* **MaHdi** -  [https://github.com/Mahdi-Barkia](https://github.com/Mahdi-Barkia)

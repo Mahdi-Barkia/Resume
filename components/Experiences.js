@@ -9,7 +9,7 @@ export default class Experiences extends React.Component {
                 <Title title="Experiences" color='#2c3e50'/>
                 <div className="container">
                     <Timeline side="left" time="Aug - Sep 2020" color="#e67e22">
-                        <h4 style={{'color': '#e67e22'}}>Altran Telnet Corporaion</h4>
+                        <h4 style={{'color': '#e67e22'}}>Altran Telnet Corporation</h4>
                         <p>
                             <i className="position">Devops engineer intern</i><br/>
                             Developing and implementing a CI/CD <br/>Devops pipeline for toolsbox management application<br/>

@@ -27,7 +27,7 @@ export default class About extends React.Component {
                         Hello, my name is <b>Mahdi Barkia</b>, IT engineer student at Higher Institute of Technology,  
                         enthusiastic and passionate about the IT world,
                         Consistently looking to solve new challenges using my skills and expand my knowledge.
-                        Currently looking for end of studies <i>Internship</i> as an opportunity to start my professional carreer in the industry and continuously learning new thins along the way.  
+                        Currently looking for end of studies <i>Internship</i> as an opportunity to start my professional career in the industry and continuously learning new things along the way.  
 
                     </div>
                 </div>
